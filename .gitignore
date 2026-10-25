@@ -1,0 +1,13 @@
+# Compiled executables (Windows)
+*.exe
+
+# Compiled executables (Mac/Linux)
+technology_service_queues_example
+function_call_stack
+tutoring_queue
+
+# Intermediate object files
+*.o
+
+# Editor configuration
+.vscode/
